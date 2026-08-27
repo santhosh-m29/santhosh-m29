@@ -5,9 +5,7 @@
 <img src="https://raw.githubusercontent.com/santhosh-m29/santhosh-m29/main/assets/banner.gif" width="100%" alt="banner"/>
 
 <!-- ================= TYPING HEADER ================= -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7B801&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Santhosh+M+%F0%9F%91%8B;Student+%7C+GameDev+%7C+AI%2FML+Enthusiast;Building+games+%26+ML+experiments;Welcome+to+my+profile!" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7B801&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Santhosh+M+%F0%9F%91%8B;Student+%7C+GameDev+%7C+AI%2FML+Enthusiast;Building+games+%26+ML+experiments;Welcome+to+my+profile!" alt="Typing SVG" />
 
 </div>
 
@@ -23,17 +21,14 @@
 <a href="https://leetcode.com/santhosh-m29" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="https://twitter.com/santhosh_m29" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=x&logoColor=white" />
-</a>
 <a href="https://santa-dev.itch.io/" target="_blank">
   <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
 </a>
-<a href="mailto:santh29osh@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Discord-santh.osh.29-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="mailto:santh29osh@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
