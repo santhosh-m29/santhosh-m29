@@ -1,11 +1,10 @@
 <!-- ================= BANNER ================= -->
 <div align="center">
 
-<!-- Replace this src with your own banner GIF/image (host it in this repo's /assets folder or any image URL) -->
 <img src="https://raw.githubusercontent.com/santhosh-m29/santhosh-m29/main/assets/banner.gif" width="100%" alt="banner"/>
 
 <!-- ================= TYPING HEADER ================= -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7B801&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Santhosh+M+%F0%9F%91%8B;Student+%7C+GameDev+%7C+AI%2FML+Enthusiast;Building+games+%26+ML+experiments;Welcome+to+my+profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7B801&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Santhosh+M+%F0%9F%91%8B;Student+%7C+GameDev+%7C+AI%2FML+Enthusiast;Building+games+%26+ML+experiments;Welcome+to+my+profile!" alt="Typing SVG"/>
 
 </div>
 
@@ -15,22 +14,28 @@
 <a href="https://instagram.com/santh.osh.29" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/santhosh-m29-/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://leetcode.com/santhosh-m29" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+
 <a href="https://twitter.com/santhosh_m29" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=x&logoColor=white" />
 </a>
+
 <a href="https://santa-dev.itch.io/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
 </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=santh29osh@gmail.com" target="_blank" rel="noopener noreferrer">
+
+<a href="mailto:santh29osh@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank" rel="noopener noreferrer" title="santh.osh.29">
+
+<a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
@@ -71,20 +76,41 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=santhosh-m29&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=E6EDF3&ring_color=F85149" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-m29&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F1E05A&text_color=E6EDF3&langs_count=8" />
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=santhosh-m29&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=E6EDF3&ring_color=F85149&cache_seconds=86400"
+  alt="GitHub Stats"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-m29&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F1E05A&text_color=E6EDF3&langs_count=8&cache_seconds=86400"
+  alt="Top Languages"
+/>
 
 </div>
 
+<br/>
+
+<!-- ================= STREAK ================= -->
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=santhosh-m29&theme=dark&hide_border=true&background=0D1117&ring=F85149&fire=F1E05A&currStreakLabel=58A6FF" />
+<img
+  src="https://streak-stats.demolab.com/?user=santhosh-m29&theme=dark&hide_border=true&background=0D1117&ring=F85149&fire=F1E05A&currStreakLabel=58A6FF"
+  alt="GitHub Streak"
+/>
 
 </div>
 
+<br/>
+
+<!-- ================= ACTIVITY GRAPH ================= -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-m29&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=3FB950&point=F85149" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-m29&bg_color=0D1117&color=58A6FF&line=3FB950&point=F85149&area=true&hide_border=true"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
@@ -95,24 +121,33 @@
 
 <div align="center">
 
-<img src="https://leetcode-stats-card.vercel.app/?username=santhosh-m29&theme=dark&background=0D1117&border=58A6FF&text_color=E6EDF3" />
+<img
+  src="https://leetcard.jacoblin.cool/santhosh-m29?theme=dark&font=Baloo%202"
+  alt="LeetCode Stats"
+/>
 
 </div>
 
 <br/>
 
-<!-- ================= TROPHIES (optional) ================= -->
+<!-- ================= TROPHIES ================= -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=santhosh-m29&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
+<img
+  src="https://github-profile-trophy.vercel.app/?username=santhosh-m29&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
 <br/>
 
-<!-- ================= VISITOR COUNT (optional) ================= -->
+<!-- ================= VISITOR COUNT ================= -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=santhosh-m29&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img
+  src="https://komarev.com/ghpvc/?username=santhosh-m29&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"
+  alt="Profile Views"
+/>
 
 </div>
