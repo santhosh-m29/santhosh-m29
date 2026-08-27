@@ -103,8 +103,15 @@
 <div align="center">
 
 <img
-  src="https://YOUR-LEETCODE-DEPLOYMENT.vercel.app/api/card?sections=profile,solved,streak,heatmap&theme=dark&hide_border=true&transparent=true"
+  src="https://leetcard.jacoblin.cool/santhosh-m29?theme=dark&font=Baloo%202"
   alt="LeetCode Stats"
+/>
+
+<br/><br/>
+
+<img
+  src="https://leetcard.jacoblin.cool/santhosh-m29?ext=heatmap&theme=dark&font=Baloo%202"
+  alt="LeetCode Submission Heatmap"
 />
 
 </div>
