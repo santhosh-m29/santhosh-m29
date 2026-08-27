@@ -70,7 +70,6 @@
 <img src="https://skillicons.dev/icons?i=unity,unrealengine,blender&theme=dark" />
 
 <br/>
-
 <!-- ================= GITHUB STATS ================= -->
 ### 📊 GitHub Stats
 
@@ -78,13 +77,13 @@
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=santhosh-m29&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=E6EDF3&ring_color=F85149&cache_seconds=86400"
+  src="https://github-readme-stats-fast.vercel.app/api?username=santhosh-m29&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=E6EDF3&ring_color=F85149"
   alt="GitHub Stats"
 />
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-m29&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F1E05A&text_color=E6EDF3&langs_count=8&cache_seconds=86400"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=santhosh-m29&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F1E05A&text_color=E6EDF3&langs_count=8"
   alt="Top Languages"
 />
 
@@ -92,7 +91,7 @@
 
 <br/>
 
-<!-- ================= STREAK ================= -->
+<!-- ================= GITHUB STREAK ================= -->
 <div align="center">
 
 <img
@@ -130,11 +129,11 @@
 
 <br/>
 
-<!-- ================= TROPHIES ================= -->
+<!-- ================= GITHUB TROPHIES ================= -->
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=santhosh-m29&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"
+  src="https://github-profile-trophy.soulteary.com/?username=santhosh-m29&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"
   alt="GitHub Trophies"
 />
 
@@ -142,12 +141,3 @@
 
 <br/>
 
-<!-- ================= VISITOR COUNT ================= -->
-<div align="center">
-
-<img
-  src="https://komarev.com/ghpvc/?username=santhosh-m29&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"
-  alt="Profile Views"
-/>
-
-</div>
