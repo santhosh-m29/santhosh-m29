@@ -67,9 +67,7 @@
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,threejs,nodejs&theme=dark" />
-<img src="https://raw.githubusercontent.com/web-platform-tests/wpt/master/webxr/resources/webxr.svg" height="48" />
-<img src="https://raw.githubusercontent.com/KhronosGroup/WebGL/main/logo/WebGL_Logo.svg" height="48" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,threejs,nodejs,webxr&theme=dark" />
 
 <br/>
 <!-- ================= GITHUB STATS ================= -->
