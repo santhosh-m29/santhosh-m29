@@ -12,23 +12,26 @@
 <!-- ================= SOCIALS ================= -->
 <div align="center">
 
-<a href="https://instagram.com/santh.osh.29" target="_blank">
+<a href="https://instagram.com/santh.osh.29" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/santhosh-m29-/" target="_blank">
+<a href="https://www.linkedin.com/in/santhosh-m29-/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/santhosh-m29" target="_blank">
+<a href="https://leetcode.com/santhosh-m29" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="https://santa-dev.itch.io/" target="_blank">
+<a href="https://twitter.com/santhosh_m29" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://santa-dev.itch.io/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
 </a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-santh.osh.29-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="mailto:santh29osh@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=santh29osh@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank" rel="noopener noreferrer" title="santh.osh.29">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 </div>
@@ -75,7 +78,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh-m29&theme=dark&hide_border=true&background=0D1117&ring=F85149&fire=F1E05A&currStreakLabel=58A6FF" />
+<img src="https://streak-stats.demolab.com/?user=santhosh-m29&theme=dark&hide_border=true&background=0D1117&ring=F85149&fire=F1E05A&currStreakLabel=58A6FF" />
 
 </div>
 
@@ -92,7 +95,7 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/santhosh-m29?theme=dark&font=Fira%20Code&ext=heatmap&bg_color=0D1117&border_color=58A6FF&text_color=E6EDF3" />
+<img src="https://leetcode-stats-card.vercel.app/?username=santhosh-m29&theme=dark&background=0D1117&border=58A6FF&text_color=E6EDF3" />
 
 </div>
 
