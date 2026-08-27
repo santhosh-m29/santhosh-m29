@@ -46,7 +46,7 @@
 <!-- ================= ABOUT ================= -->
 ### 🚀 About Me
 
-- 🎓 Student, currently diving deep into **Game Development** and **AI/ML**
+- 🎓 Student, currently diving deep into **Game Development**, **AR/VR** and **AI/ML**
 - 🕹️ Building games with **Unity** and **Unreal Engine**
 - 🤖 Exploring **Machine Learning** and AI-driven systems
 - 🌐 Also into full-stack web dev — **React**, **Next.js**, **Three.js**, **Node**
@@ -59,7 +59,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cs,python,java,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cs,python,java,ts,html,css,js&theme=dark" />
 
 **Software / Engines**
 
