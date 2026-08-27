@@ -98,19 +98,15 @@
 <br/>
 
 <!-- ================= LEETCODE STATS ================= -->
-🧩 LeetCode Stats
+### 🧩 LeetCode Stats
 
 <div align="center">
 
 <img
-  src="https://leetcard.jacoblin.cool/santhosh-m29?theme=dark&font=Baloo%202"
+  src="https://YOUR-LEETCODE-DEPLOYMENT.vercel.app/api/card?sections=profile,solved,streak,heatmap&theme=dark&hide_border=true&transparent=true"
   alt="LeetCode Stats"
 />
 
 </div>
 
 <br/>
-
-
-</div>
-
