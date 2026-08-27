@@ -72,19 +72,6 @@
 <br/>
 <!-- ================= GITHUB STATS ================= -->
 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  height="165"
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=santhosh-m29&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F1E05A&text_color=E6EDF3&langs_count=8"
-  alt="Top Languages"
-/>
-
-</div>
-
-<br/>
-
 <!-- ================= GITHUB STREAK ================= -->
 <div align="center">
 
@@ -96,6 +83,51 @@
 </div>
 
 <br/>
+
+<!-- ================= FEATURED GAMES ================= -->
+
+### 🎮 Featured Games
+
+<div align="center">
+
+<a href="https://santa-dev.itch.io/chakravyuh">
+  <img src="./assets/games/chakravyuh.png" width="22%" alt="Chakravyuh"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://santa-dev.itch.io/shadow-reaper">
+  <img src="./assets/games/shadow-reaper.png" width="22%" alt="Shadow Reaper"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://santa-dev.itch.io/changing-places">
+  <img src="./assets/games/changing-places.png" width="22%" alt="Changing Places"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://santa-dev.itch.io/beat-the-clock">
+  <img src="./assets/games/beat-the-clock.png" width="22%" alt="Beat the Clock"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://santa-dev.itch.io/chakravyuh">Chakravyuh</a>
+  •   <a href="https://santa-dev.itch.io/shadow-reaper">Shadow Reaper</a>
+  •   <a href="https://santa-dev.itch.io/changing-places">Changing Places</a>
+  •   <a href="https://santa-dev.itch.io/beat-the-clock">Beat the Clock</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://santa-dev.itch.io/">
+  <img src="https://img.shields.io/badge/🎮%20View%20All%20Games-FA5C5C?style=for-the-badge" alt="View all games"/>
+</a>
+
+</div>
 
 <!-- ================= LEETCODE STATS ================= -->
 ### 🧩 LeetCode Stats
