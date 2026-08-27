@@ -47,7 +47,6 @@
 - 🕹️ Building games with **Unity** and **Unreal Engine**
 - 🤖 Exploring **Machine Learning** and AI-driven systems
 - 🌐 Also into full-stack web dev — **React**, **Next.js**, **Three.js**, **Node**
-- ⚡ Fun fact: `PLAYING GAMES = WORKING'
 - 📫 Reach me at **santh29osh@gmail.com**
 
 <br/>
