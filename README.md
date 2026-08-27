@@ -103,13 +103,6 @@
 <div align="center">
 
 <img
-  src="https://leetcard.jacoblin.cool/santhosh-m29?theme=dark&font=Baloo%202"
-  alt="LeetCode Stats"
-/>
-
-<br/><br/>
-
-<img
   src="https://leetcard.jacoblin.cool/santhosh-m29?ext=heatmap&theme=dark&font=Baloo%202"
   alt="LeetCode Submission Heatmap"
 />
