@@ -71,7 +71,7 @@
 
 <br/>
 <!-- ================= GITHUB STATS ================= -->
-### 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
 
@@ -98,7 +98,7 @@
 <br/>
 
 <!-- ================= LEETCODE STATS ================= -->
-### 🧩 LeetCode Stats
+🧩 LeetCode Stats
 
 <div align="center">
 
@@ -111,13 +111,6 @@
 
 <br/>
 
-<!-- ================= PROFILE VIEWS ================= -->
-<div align="center">
-
-<img
-  src="https://komarev.com/ghpvc/?username=santhosh-m29&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"
-  alt="Profile Views"
-/>
 
 </div>
 
