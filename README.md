@@ -59,7 +59,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cs,python,java,ts,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cs,python,java,ts&theme=dark" />
 
 **Software / Engines**
 
@@ -67,7 +67,7 @@
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,threejs,nodejs,webxr&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,threejs,nodejs&theme=dark" />
 
 <br/>
 <!-- ================= GITHUB STATS ================= -->
