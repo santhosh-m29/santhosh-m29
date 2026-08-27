@@ -14,26 +14,26 @@
 <!-- ================= SOCIALS ================= -->
 <div align="center">
 
-<a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE" target="_blank">
+<a href="https://instagram.com/santh.osh.29" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
+<a href="https://www.linkedin.com/in/santhosh-m29-/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+<a href="https://leetcode.com/santhosh-m29" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+<a href="https://twitter.com/santhosh_m29" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="https://YOUR_ITCHIO_USERNAME.itch.io" target="_blank">
+<a href="https://santa-dev.itch.io/" target="_blank">
   <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+<a href="mailto:santh29osh@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-santh.osh.29-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 </div>
@@ -47,8 +47,8 @@
 - 🕹️ Building games with **Unity** and **Unreal Engine**
 - 🤖 Exploring **Machine Learning** and AI-driven systems
 - 🌐 Also into full-stack web dev — **React**, **Next.js**, **Three.js**, **Node**
-- ⚡ Fun fact: `YOUR_FUN_FACT_HERE`
-- 📫 Reach me at **YOUR_EMAIL@example.com**
+- ⚡ Fun fact: `PLAYING GAMES = WORKING'
+- 📫 Reach me at **santh29osh@gmail.com**
 
 <br/>
 
