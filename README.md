@@ -61,13 +61,13 @@
 
 <img src="https://skillicons.dev/icons?i=c,cs,python,java,ts&theme=dark" />
 
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,threejs,nodejs&theme=dark" />
-
 **Software / Engines**
 
 <img src="https://skillicons.dev/icons?i=unity,unrealengine,blender&theme=dark" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,threejs,nodejs&theme=dark" />
 
 <br/>
 <!-- ================= GITHUB STATS ================= -->
